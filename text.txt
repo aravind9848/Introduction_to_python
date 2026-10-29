@@ -1,0 +1,2 @@
+"Python is easy. Python is Powerful!
+I like pyhton, and I like data."
